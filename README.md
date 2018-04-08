@@ -1,2 +1,2 @@
 # hello-world
-git7話実践
+git7.8話実践
